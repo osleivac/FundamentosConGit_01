@@ -28,4 +28,4 @@ def leer_nota():
     return notas
 
 notas = leer_nota()
-print(notas)
+print(f"Tus notas son: {notas}")
